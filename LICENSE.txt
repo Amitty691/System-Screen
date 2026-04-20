@@ -1,0 +1,79 @@
+SYSTEM SCREEN PROPRIETARY SOURCE CODE LICENSE AGREEMENT
+Version 1.0
+Effective Date: April 20, 2026
+
+IMPORTANT: READ THIS AGREEMENT CAREFULLY.
+BY ACCESSING, DOWNLOADING, INSTALLING, COPYING, OR USING ANY PART OF THE SOFTWARE OR SOURCE CODE,
+YOU AGREE TO BE LEGALLY BOUND BY THIS AGREEMENT.
+
+This license governs all code, binaries, assets, documentation, and related materials for:
+"System Screen" (including Networking and Diagnostics & Health editions)
+("Software"), provided by the Licensor.
+
+1. DEFINITIONS
+1.1 "Licensor" means the owner of the Software and all related intellectual property.
+1.2 "Licensee" means any individual or entity that accesses or uses the Software.
+1.3 "Source Code" means all human-readable code and project files.
+1.4 "Commercial Use" means any use intended to generate revenue, profit, business advantage, or paid services.
+
+2. OWNERSHIP
+2.1 The Software is licensed, not sold.
+2.2 Licensor retains all right, title, and interest in and to the Software, including all copyrights,
+trade secrets, and other intellectual property rights.
+
+3. LIMITED LICENSE GRANT
+3.1 Subject to full compliance with this Agreement, Licensor grants Licensee a limited, revocable,
+non-exclusive, non-transferable, non-sublicensable license to use the Software solely for internal,
+non-commercial evaluation and operation.
+
+4. STRICT RESTRICTIONS
+Licensee shall NOT, and shall NOT permit any third party to:
+4.1 Modify, adapt, alter, translate, enhance, or create derivative works of the Software or Source Code.
+4.2 Copy, redistribute, publish, share, resell, lease, rent, sublicense, or transfer the Software or Source Code.
+4.3 Use the Software or Source Code for any Commercial Use or profit-generating activity.
+4.4 Reverse engineer, decompile, disassemble, or otherwise attempt to derive source, structure, or logic,
+except to the limited extent a non-waivable law expressly permits.
+4.5 Remove, alter, or obscure any proprietary notices, attributions, or licensing information.
+4.6 Use the Software in any unlawful, abusive, deceptive, or unauthorized manner.
+
+5. NO COMMERCIAL RIGHTS
+5.1 No right to sell, monetize, license, or otherwise profit from the Software is granted under this Agreement.
+5.2 Any commercial or revenue-generating use requires prior express written permission from Licensor.
+
+6. ACCESS CONTROL
+6.1 Licensee may not disclose Source Code to unauthorized users.
+6.2 Licensee is responsible for maintaining reasonable security controls to prevent unauthorized access or copying.
+
+7. TERMINATION
+7.1 This Agreement is effective until terminated.
+7.2 This Agreement terminates automatically, without notice, if Licensee breaches any term.
+7.3 Upon termination, Licensee must immediately cease all use and permanently delete all copies of the Software and Source Code.
+
+8. ENFORCEMENT AND REMEDIES
+8.1 Licensee acknowledges that unauthorized use may cause irreparable harm.
+8.2 Licensor may seek injunctive relief and any other remedies available at law or equity.
+
+9. DISCLAIMER
+9.1 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ERROR-FREE OPERATION.
+
+10. LIMITATION OF LIABILITY
+10.1 TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, DATA, OR BUSINESS INTERRUPTION.
+10.2 LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED USD $100.
+
+11. GOVERNING LAW
+11.1 This Agreement is governed by and construed under the laws of the State of Michigan, United States,
+without regard to conflict-of-law rules.
+11.2 Exclusive venue shall be in the state or federal courts located in [Menominee County, Michigan.
+
+12. ENTIRE AGREEMENT
+12.1 This Agreement is the complete and exclusive statement of the agreement between Licensor and Licensee
+regarding the Software, and supersedes all prior communications.
+12.2 Any amendment must be in writing and signed by Licensor.
+
+13. CONTACT / COMMERCIAL PERMISSIONS
+For commercial licensing requests, written permission, or legal notices, contact Licensor at:
+[amanismith558@gmail.com]
+
+END OF AGREEMENT
