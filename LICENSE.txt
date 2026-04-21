@@ -1,4 +1,4 @@
-SYSTEM SCREEN PROPRIETARY SOURCE CODE LICENSE AGREEMENT
+AVERON SYSTEMS PROPRIETARY SOURCE CODE LICENSE AGREEMENT
 Version 1.0
 Effective Date: April 20, 2026
 
@@ -7,7 +7,7 @@ BY ACCESSING, DOWNLOADING, INSTALLING, COPYING, OR USING ANY PART OF THE SOFTWAR
 YOU AGREE TO BE LEGALLY BOUND BY THIS AGREEMENT.
 
 This license governs all code, binaries, assets, documentation, and related materials for:
-"System Screen" (including Networking and Diagnostics & Health editions)
+"Averon Systems" (including Networking and Diagnostics & Health editions)
 ("Software"), provided by the Licensor.
 
 1. DEFINITIONS
@@ -65,7 +65,7 @@ CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, DATA, OR BUS
 11. GOVERNING LAW
 11.1 This Agreement is governed by and construed under the laws of the State of Michigan, United States,
 without regard to conflict-of-law rules.
-11.2 Exclusive venue shall be in the state or federal courts located in [Menominee County, Michigan.
+11.2 Exclusive venue shall be in the state or federal courts located in [Ingham County, Michigan.
 
 12. ENTIRE AGREEMENT
 12.1 This Agreement is the complete and exclusive statement of the agreement between Licensor and Licensee
